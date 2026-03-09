@@ -1,0 +1,8 @@
+{
+  "name": "AgroMaster Pro - Farm Management System",
+  "description": "A comprehensive AgroTech solution for managing crop production, livestock, inventory, finances, and field operations with integrated AI insights.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
